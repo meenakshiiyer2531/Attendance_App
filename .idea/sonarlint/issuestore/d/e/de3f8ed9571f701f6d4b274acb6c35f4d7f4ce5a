@@ -1,0 +1,15 @@
+
+i
+java:S2095]"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ëòØû8ú¯ç«Ù1
+O
+java:S1659%"2Declare "generateReportButton" on a separate line.(×•ˆ°8¥ëæ«Ù1
+{
+java:S1450&"YRemove the "peopleList" field and declare it as a local variable in the relevant methods.(¿…Ó›ûÿÿÿÿ8§äè«Ù1
+`
+java:S1874E">Remove this use of "startActivityForResult"; it is deprecated.(£ïãŠúÿÿÿÿ8·ëæ«Ù1
+[
+java:S1874K">Remove this use of "startActivityForResult"; it is deprecated.(ª¾…ª8õÎë«Ù1
+f
+java:S1874V"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8¼ëæ«Ù1
+M
+java:S2093Ò"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Òëæ«Ù1

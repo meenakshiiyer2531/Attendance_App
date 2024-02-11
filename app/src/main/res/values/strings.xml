@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance App</string>
+    <string name="submit_attendance">Submit Attendance</string>
+    <string name="add_person">Add Person</string>
+</resources>
